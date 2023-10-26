@@ -63,6 +63,9 @@
     "storybook": "^7.1.1",
     "webpack": "^5.88.2"
   },
+  "resolutions": {
+    "acorn": "8.10.0"
+  },
   "readme": "ERROR: No README data found!",
   "_id": "sb-bootstrap-test@0.1.0"
 }
